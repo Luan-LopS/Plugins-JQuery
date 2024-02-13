@@ -113,7 +113,11 @@ flex-wrap: wrap;}
     border-radius: 6px;
 }
 
-.lista-carro li strong{
+.price{
     margin: 16px 0 ;
     display: block;
+}
+.price del{
+    color: #ccc;
+    font-size: 14px;
 }
